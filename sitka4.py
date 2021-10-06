@@ -35,7 +35,6 @@ for row in csv_file:
 print(highs)
 print(dates)
 
-'''
 
 fig = plt.figure()
 
@@ -67,5 +66,3 @@ plt.title('Lows')
 plt.subtitle("Highs and Lows of Sitka, Alaska")
 
 plt.show()
-
-'''
